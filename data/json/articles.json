@@ -4,6 +4,7 @@
     "description": "Panduan praktis menyeduh kopi berkualitas kafe di rumah tanpa perlu alat yang mahal.",
     "date": "2026-07-11T09:00:51.830Z",
     "category": null,
+    "thumbnail": null,
     "lastModified": "2026-07-11T09:00:50Z",
     "path": "data/md/5-tips-menyeduh-kopi-enak-di-rumah.md"
   },
@@ -12,7 +13,17 @@
     "description": "Ini ujicoba web dari dususn nah baru inisiiati awal",
     "date": "2026-07-11T06:33:13.580Z",
     "category": null,
+    "thumbnail": null,
     "lastModified": "2026-07-11T06:33:12Z",
     "path": "data/md/dfdfdsf.md"
+  },
+  {
+    "title": "ada",
+    "description": "ada",
+    "date": "2026-07-11T09:56:59.681Z",
+    "category": null,
+    "thumbnail": "https://raw.githubusercontent.com/AlfonsusSitanggang/kadus2-content/main/data/media/berita/1783763816658-e7845c6d-ce4d-441a-be5c-37b7a92825eb-whatsapp-image-2026-06-17-at-14.04.57.jpeg",
+    "lastModified": "2026-07-11T09:56:58Z",
+    "path": "data/md/uji-upload-gambar.md"
   }
 ]
