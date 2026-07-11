@@ -3,6 +3,8 @@
     "name": "Profil desa",
     "description": "Selamat datang di Website Profil Kadus 2 Desa Kecemen....",
     "url": "",
-    "category": ""
+    "category": "",
+    "deleted": true,
+    "deletedAt": "2026-07-11T04:42:11.565Z"
   }
 ]
