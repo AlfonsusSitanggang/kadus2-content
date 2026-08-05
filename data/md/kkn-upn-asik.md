@@ -5,7 +5,7 @@ date: '2026-07-15T03:55:57.280Z'
 thumbnail: >-
   https://raw.githubusercontent.com/AlfonsusSitanggang/kadus2-content/main/data/media/berita/1784087753665-b7913274-d6af-45cd-ade6-698dc07e7765-win_20260715_10_53_25_pro.jpg
 category: lainnya
-lastModified: '2026-08-05T08:39:05.071Z'
+lastModified: '2026-08-05T08:40:11.022Z'
 ---
 Website Profil Dusun II Desa Kecemen merupakan sebuah media informasi digital yang dikembangkan untuk mendokumentasikan sekaligus memperkenalkan berbagai informasi mengenai Dusun II kepada masyarakat luas. Website ini dibangun sebagai bagian dari program kerja Kuliah Kerja Nyata (KKN) Universitas Pembangunan Nasional "Veteran" Yogyakarta Tahun 2026 dengan tujuan menghadirkan sarana informasi yang mudah diakses, modern, dan berkelanjutan.
 
