@@ -9,6 +9,15 @@
     "path": "data/md/5-tips-menyeduh-kopi-enak-di-rumah.md"
   },
   {
+    "title": "asa",
+    "description": "asa",
+    "date": "2026-08-05T12:01:53.797Z",
+    "category": "kegiatan-warga",
+    "thumbnail": null,
+    "lastModified": "2026-08-05T12:01:52Z",
+    "path": "data/md/asa.md"
+  },
+  {
     "title": "Uji COba langsung setelah deploy",
     "description": "",
     "date": "2026-08-05T08:42:24.226Z",
