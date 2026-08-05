@@ -15,7 +15,9 @@
     "category": null,
     "thumbnail": null,
     "lastModified": "2026-07-11T06:33:12Z",
-    "path": "data/md/dfdfdsf.md"
+    "path": "data/md/dfdfdsf.md",
+    "deleted": true,
+    "deletedAt": "2026-08-05T08:28:45.858Z"
   },
   {
     "title": "sreeenshoot",
