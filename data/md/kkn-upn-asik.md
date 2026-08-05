@@ -1,7 +1,7 @@
 ---
 title: Developer
 description: Diduga stress KKN
-date: '2026-07-15T03:55:57.280Z'
+date: '2026-07-25T13:00:00.000Z'
 thumbnail: >-
   https://raw.githubusercontent.com/AlfonsusSitanggang/kadus2-content/main/data/media/berita/1784087753665-b7913274-d6af-45cd-ade6-698dc07e7765-win_20260715_10_53_25_pro.jpg
 category: lainnya
