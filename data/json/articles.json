@@ -15,9 +15,7 @@
     "category": "kegiatan-warga",
     "thumbnail": null,
     "lastModified": "2026-08-05T12:01:52Z",
-    "path": "data/md/asa.md",
-    "deleted": true,
-    "deletedAt": "2026-08-05T12:02:09.133Z"
+    "path": "data/md/asa.md"
   },
   {
     "title": "Uji COba langsung setelah deploy",
