@@ -4,6 +4,7 @@
     "description": "Panduan praktis menyeduh kopi berkualitas kafe di rumah tanpa perlu alat yang mahal.",
     "date": "2026-07-11T09:00:51.830Z",
     "category": null,
+    "thumbnail": null,
     "lastModified": "2026-07-11T09:00:50Z",
     "path": "data/md/5-tips-menyeduh-kopi-enak-di-rumah.md"
   },
@@ -12,7 +13,8 @@
     "description": "",
     "date": "2026-08-05T08:42:24.226Z",
     "category": null,
-    "lastModified": "2026-08-05T08:42:51Z",
+    "thumbnail": null,
+    "lastModified": "2026-08-05T11:07:12Z",
     "path": "data/md/kerja-keras.md"
   },
   {
@@ -20,6 +22,7 @@
     "description": "Diduga stress KKN",
     "date": "2026-07-15T03:55:57.280Z",
     "category": "lainnya",
+    "thumbnail": "https://raw.githubusercontent.com/AlfonsusSitanggang/kadus2-content/main/data/media/berita/1784087753665-b7913274-d6af-45cd-ade6-698dc07e7765-win_20260715_10_53_25_pro.jpg",
     "lastModified": "2026-08-05T08:40:11Z",
     "path": "data/md/kkn-upn-asik.md"
   }
