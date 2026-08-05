@@ -21,7 +21,9 @@
     "date": "2026-08-05T08:51:11.101Z",
     "category": null,
     "lastModified": "2026-08-05T08:51:09Z",
-    "path": "data/md/as-df.md"
+    "path": "data/md/as-df.md",
+    "deleted": true,
+    "deletedAt": "2026-08-05T09:06:52.857Z"
   },
   {
     "title": "as",
