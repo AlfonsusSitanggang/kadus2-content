@@ -21,9 +21,7 @@
     "date": "2026-08-05T08:51:11.101Z",
     "category": null,
     "lastModified": "2026-08-05T08:51:09Z",
-    "path": "data/md/as-df.md",
-    "deleted": true,
-    "deletedAt": "2026-08-05T09:06:52.857Z"
+    "path": "data/md/as-df.md"
   },
   {
     "title": "as",
@@ -63,8 +61,6 @@
     "date": "2026-08-05T08:52:09.989Z",
     "category": null,
     "lastModified": "2026-08-05T08:52:08Z",
-    "path": "data/md/zx-zx.md",
-    "deleted": true,
-    "deletedAt": "2026-08-05T09:06:43.755Z"
+    "path": "data/md/zx-zx.md"
   }
 ]
